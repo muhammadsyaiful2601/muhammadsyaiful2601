@@ -1,127 +1,241 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Hello+World+👋;I'm+Muhammad+Syaiful;Information+Systems+Student;Web+Developer;AI+Assisted+Programmer" />
+<img src="banner.png" width="100%" />
 
 </div>
-
-<br>
-
-<div align="center">
-<img src="profile.png" width="190" style="border-radius:50%">
-</div>
-
----
-
-# 👨‍💻 Muhammad Syaiful
-
-🎓 **Information Systems Student — Politeknik Negeri Padang**
-
-Saya adalah mahasiswa yang memiliki minat besar pada dunia teknologi terutama:
-
-* Web Development
-* Software Engineering
-* Database Systems
-* Artificial Intelligence Assisted Development
-
-Saya terbiasa memanfaatkan **Artificial Intelligence untuk meningkatkan produktivitas dalam coding, debugging, dan research teknologi.**
-
-AI membantu saya belajar lebih cepat serta mempercepat proses pengembangan software.
-
----
-
-# 🤖 AI Tools I Use
-
-Berikut beberapa AI yang sering saya gunakan dalam proses development:
-
-| AI Tool      | Fungsi                                                    |
-| ------------ | --------------------------------------------------------- |
-| **ChatGPT**  | Code generation, debugging, penjelasan konsep programming |
-| **DeepSeek** | Analisis kode, reasoning, dan problem solving             |
-| **Gemini**   | Research teknologi, eksplorasi ide, dan dokumentasi       |
-
-Dengan memanfaatkan AI tersebut saya dapat:
-
-* mempercepat proses coding
-* memahami konsep teknologi lebih cepat
-* melakukan debugging lebih efisien
-* meningkatkan kualitas proyek yang dibuat
-
----
-
-# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,linux&perline=5"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1100&lines=Selamat+Datang+Di+Profile+Saya;Muhammad+Syaiful;Information+Systems+Student;Web+Developer;AI+Assisted+Programmer;Cyber+Developer+Mode+Activated" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 💻 DEVELOPER TERMINAL
+
+```
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+```
+
+```bash
+> Booting Developer Profile...
+> Loading System Modules...
+> Connecting To GitHub Network...
+> Authentication Success
+```
+
+```bash
+root@developer:~$ whoami
+Muhammad Syaiful
+
+root@developer:~$ role
+Information Systems Student
+Web Developer
+AI Assisted Programmer
+
+root@developer:~$ university
+Politeknik Negeri Padang
+```
+
+---
+
+# 🌧 MATRIX NETWORK
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadsyaiful2601&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyaiful2601&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="750">
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# ⚡ LIVE CODING TERMINAL
+
+```bash
+Initializing system...
+
+Loading libraries...
+[████████████████████████] 100%
+
+import web_development
+import database_architecture
+import artificial_intelligence
+import cloud_computing
+import cyber_security
+
+Compiling source code...
+
+function buildFuture(){
+
+    let knowledge = 100
+    let creativity = 100
+    let bugs = 0
+
+    if(knowledge && creativity){
+        return "Future Technology Created"
+    }
+
+}
+
+Running processes...
+
+████████████████████████████████████
+System Status : STABLE
+```
+
+---
+
+# 👾 CODING MODE
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=muhammadsyaiful2601&theme=tokyonight&hide_border=true"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+# 🧠 ABOUT ME
 
-Saya sedang memperdalam beberapa bidang berikut:
+Saya adalah mahasiswa **Sistem Informasi di Politeknik Negeri Padang** yang memiliki minat besar dalam dunia teknologi:
 
-* Web Framework Development
-* Software Engineering
-* Database Architecture
-* Cloud Computing
-* Linux Development Environment
-* AI Assisted Programming
+* 💻 Web Development
+* ⚙ Software Engineering
+* 🗄 Database Systems
+* 🤖 Artificial Intelligence
+
+Saya menggunakan **AI tools untuk meningkatkan produktivitas coding dan eksplorasi teknologi baru.**
 
 ---
 
-# 🐍 GitHub Contribution Snake
+# 🤖 AI TOOLS
 
 <div align="center">
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Problem%20Solving-00FF41?style=for-the-badge)
+
+![DeepSeek](https://img.shields.io/badge/DeepSeek-Code%20Writing-black?style=for-the-badge)
+
+![Gemini](https://img.shields.io/badge/Gemini-Finding%20Inspiration-4285F4?style=for-the-badge)
 
 </div>
 
 ---
 
-# 👀 Profile Visitors
+# 🚀 TECH STACK
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=muhammadsyaiful2601&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,linux,docker&perline=5"/>
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📊 GITHUB DASHBOARD
 
-💻 GitHub
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsyaiful2601&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyaiful2601&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GITHUB STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=muhammadsyaiful2601&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsyaiful2601&theme=chartreuse-dark"/>
+
+</div>
+
+---
+
+# 🧠 CURRENTLY LEARNING
+
+```
+Web Framework Development
+Software Engineering
+Database Architecture
+Cloud Computing
+Linux Development Environment
+AI Assisted Programming
+Cyber Security Fundamentals
+```
+
+---
+
+# 💻 DEVELOPER CODE
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Muhammad Syaiful"
+        self.role = "Web Developer"
+        self.languages = ["PHP","JavaScript"]
+        self.tools = ["Laravel","MySQL","Git","Linux"]
+
+    def philosophy(self):
+        return "Code. Learn. Build. Repeat."
+```
+
+---
+
+# 👀 PROFILE VISITORS
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=muhammadsyaiful2601&label=Visitors&color=00ff41&style=flat"/>
+
+</div>
+
+---
+
+# 📫 CONNECT WITH ME
+
+<div align="center">
+
+GitHub
 https://github.com/muhammadsyaiful2601
 
+</div>
+
 ---
 
 <div align="center">
 
-⭐ *Thank you for visiting my GitHub profile*
+🟢 SYSTEM STATUS : ONLINE
+⚡ CODING IN PROGRESS
+💻 BUILDING FUTURE TECHNOLOGY
 
 </div>
