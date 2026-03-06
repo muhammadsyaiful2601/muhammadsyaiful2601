@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="banner.png" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx1eHdxemlteW11cW1zcnYxN21wbGNwNjF0cnhoZ2wwMDBudGk3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYKXwQgESbKGk/giphy.gif" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1100&lines=Selamat+Datang+Di+Profile+Saya;Muhammad+Syaiful;Information+Systems+Student;Web+Developer;AI+Assisted+Programmer;Cyber+Developer+Mode+Activated" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1100&lines=Selamat+Datang+Di+Profile+Saya;Muhammad+Syaiful;Information+Systems+Student;Web+Developer;AI+Assisted+Programmer;Cyber+Developer+Mode+Activated;BWA+BWA+BWA" />
 
 </div>
 
@@ -15,12 +15,19 @@
 # 💻 DEVELOPER TERMINAL
 
 ```
-██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗
-██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
-██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
-██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
-╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+██████╗ ██╗    ██╗ █████╗      ██████╗ ██╗    ██╗ █████╗
+██╔══██╗██║    ██║██╔══██╗    ██╔══██╗██║    ██║██╔══██╗
+██████╔╝██║ █╗ ██║███████║    ██████╔╝██║ █╗ ██║███████║
+██╔══██╗██║███╗██║██╔══██║    ██╔══██╗██║███╗██║██╔══██║
+██████╔╝╚███╔███╔╝██║  ██║    ██████╔╝╚███╔███╔╝██║  ██║
+╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝    ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝
+
+██████╗ ██╗    ██╗ █████╗      ██████╗ ██╗    ██╗ █████╗
+██╔══██╗██║    ██║██╔══██╗    ██╔══██╗██║    ██║██╔══██╗
+██████╔╝██║ █╗ ██║███████║    ██████╔╝██║ █╗ ██║███████║
+██╔══██╗██║███╗██║██╔══██║    ██╔══██╗██║███╗██║██╔══██║
+██████╔╝╚███╔███╔╝██║  ██║    ██████╔╝╚███╔███╔╝██║  ██║
+
 ```
 
 ```bash
@@ -49,7 +56,7 @@ Politeknik Negeri Padang
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="750">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY201dWNndm0yYnFzcjE4eGM0N20yemZ3c3Q0bGdtbHEzMTNldXNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="750">
 
 </div>
 
@@ -95,7 +102,7 @@ System Status : STABLE
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNvN2VuMmIwZzVucDJveW1pdWZldXdrZjZybmtuaWg1a3Vvd3VzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 </div>
 
