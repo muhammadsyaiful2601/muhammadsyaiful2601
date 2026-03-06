@@ -1,83 +1,127 @@
-<h1 align="center">Hi 👋, I'm Muhammad Syaiful</h1>
-<h3 align="center">Information Systems Student | Web Developer | AI Enthusiast</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Hello+World+👋;I'm+Muhammad+Syaiful;Information+Systems+Student;Web+Developer;AI+Assisted+Programmer" />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="profile.png" width="190" style="border-radius:50%">
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 Muhammad Syaiful
 
-🎓 Saya adalah mahasiswa **Sistem Informasi di Politeknik Negeri Padang (PNP)** yang memiliki minat besar pada dunia teknologi, khususnya **pengembangan web, rekayasa perangkat lunak, database, dan pemanfaatan AI dalam pengembangan software**.
+🎓 **Information Systems Student — Politeknik Negeri Padang**
 
-Saya suka mengeksplorasi teknologi baru, membangun proyek untuk belajar, serta menggunakan **Artificial Intelligence sebagai alat bantu untuk coding, debugging, dan riset teknologi**.
+Saya adalah mahasiswa yang memiliki minat besar pada dunia teknologi terutama:
 
----
+* Web Development
+* Software Engineering
+* Database Systems
+* Artificial Intelligence Assisted Development
 
-## 🤖 AI Skills
+Saya terbiasa memanfaatkan **Artificial Intelligence untuk meningkatkan produktivitas dalam coding, debugging, dan research teknologi.**
 
-Saya terbiasa menggunakan **AI tools** untuk membantu pengembangan software seperti:
-
-* Code generation
-* Debugging program
-* Optimasi algoritma
-* Dokumentasi proyek
-* Research teknologi
-
-AI membantu saya **belajar lebih cepat dan meningkatkan produktivitas sebagai developer**.
+AI membantu saya belajar lebih cepat serta mempercepat proses pengembangan software.
 
 ---
 
-## 🛠️ Tech Stack
+# 🤖 AI Tools I Use
 
-### 💻 Programming & Web
+Berikut beberapa AI yang sering saya gunakan dalam proses development:
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
+| AI Tool      | Fungsi                                                    |
+| ------------ | --------------------------------------------------------- |
+| **ChatGPT**  | Code generation, debugging, penjelasan konsep programming |
+| **DeepSeek** | Analisis kode, reasoning, dan problem solving             |
+| **Gemini**   | Research teknologi, eksplorasi ide, dan dokumentasi       |
 
-### ⚙️ Framework & Tools
+Dengan memanfaatkan AI tersebut saya dapat:
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-
-### 🐧 Operating System
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-
-### 🧠 Technology
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-grey?style=for-the-badge)
+* mempercepat proses coding
+* memahami konsep teknologi lebih cepat
+* melakukan debugging lebih efisien
+* meningkatkan kualitas proyek yang dibuat
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,linux&perline=5"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadsyaiful2601&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyaiful2601&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=muhammadsyaiful2601&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+Saya sedang memperdalam beberapa bidang berikut:
 
 * Web Framework Development
 * Software Engineering
 * Database Architecture
 * Cloud Computing
-* Linux Environment for Development
+* Linux Development Environment
+* AI Assisted Programming
 
 ---
 
-## 📊 GitHub Statistics
+# 🐍 GitHub Contribution Snake
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsyaiful2601\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyaiful2601\&layout=compact\&theme=tokyonight)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 👀 Profile Visitors
 
-GitHub:
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=muhammadsyaiful2601&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+💻 GitHub
 https://github.com/muhammadsyaiful2601
 
 ---
 
-⭐ Terima kasih telah mengunjungi profil GitHub saya.
+<div align="center">
+
+⭐ *Thank you for visiting my GitHub profile*
+
+</div>
