@@ -138,28 +138,6 @@ Saya menggunakan **AI tools untuk meningkatkan produktivitas coding dan eksplora
 
 ---
 
-# 📊 GITHUB DASHBOARD
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsyaiful2601&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyaiful2601&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GITHUB STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=muhammadsyaiful2601&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
@@ -175,6 +153,30 @@ Saya menggunakan **AI tools untuk meningkatkan produktivitas coding dan eksplora
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsyaiful2601&theme=chartreuse-dark"/>
+
+</div>
+
+---
+
+# 🌐 SOCIAL MEDIA
+
+<div align="center">
+
+<a href="https://github.com/muhammadsyaiful2601">
+<img src="https://img.shields.io/badge/GitHub-Profile-00FF41?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-Coming%20Soon-black?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-black?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome"/>
+</a>
 
 </div>
 
@@ -216,17 +218,6 @@ class Developer:
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=muhammadsyaiful2601&label=Visitors&color=00ff41&style=flat"/>
-
-</div>
-
----
-
-# 📫 CONNECT WITH ME
-
-<div align="center">
-
-GitHub
-https://github.com/muhammadsyaiful2601
 
 </div>
 
