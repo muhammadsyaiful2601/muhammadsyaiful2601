@@ -12,23 +12,7 @@
 
 ---
 
-# 💻 DEVELOPER TERMINAL
-
-```
-██████╗ ██╗    ██╗ █████╗      ██████╗ ██╗    ██╗ █████╗
-██╔══██╗██║    ██║██╔══██╗    ██╔══██╗██║    ██║██╔══██╗
-██████╔╝██║ █╗ ██║███████║    ██████╔╝██║ █╗ ██║███████║
-██╔══██╗██║███╗██║██╔══██║    ██╔══██╗██║███╗██║██╔══██║
-██████╔╝╚███╔███╔╝██║  ██║    ██████╔╝╚███╔███╔╝██║  ██║
-╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝    ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝
-
-██████╗ ██╗    ██╗ █████╗      ██████╗ ██╗    ██╗ █████╗
-██╔══██╗██║    ██║██╔══██╗    ██╔══██╗██║    ██║██╔══██╗
-██████╔╝██║ █╗ ██║███████║    ██████╔╝██║ █╗ ██║███████║
-██╔══██╗██║███╗██║██╔══██║    ██╔══██╗██║███╗██║██╔══██║
-██████╔╝╚███╔███╔╝██║  ██║    ██████╔╝╚███╔███╔╝██║  ██║
-
-```
+# 💻 Developer Profile
 
 ```bash
 > Booting Developer Profile...
@@ -52,6 +36,24 @@ Politeknik Negeri Padang
 
 ---
 
+```
+██████╗ ██╗    ██╗ █████╗     ██████╗ ██╗    ██╗ █████╗
+██╔══██╗██║    ██║██╔══██╗    ██╔══██╗██║    ██║██╔══██╗
+██████╔╝██║ █╗ ██║███████║    ██████╔╝██║ █╗ ██║███████║
+██╔══██╗██║███╗██║██╔══██║    ██╔══██╗██║███╗██║██╔══██║
+██████╔╝╚███╔███╔╝██║  ██║    ██████╔╝╚███╔███╔╝██║  ██║
+╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝    ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝
+
+██████╗ ██╗    ██╗ █████╗     ██████╗ ██╗    ██╗ █████╗
+██╔══██╗██║    ██║██╔══██╗    ██╔══██╗██║    ██║██╔══██╗
+██████╔╝██║ █╗ ██║███████║    ██████╔╝██║ █╗ ██║███████║
+██╔══██╗██║███╗██║██╔══██║    ██╔══██╗██║███╗██║██╔══██║
+██████╔╝╚███╔███╔╝██║  ██║    ██████╔╝╚███╔███╔╝██║  ██║
+╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝    ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝
+```
+
+---
+
 # 🌧 MATRIX NETWORK
 
 <div align="center">
@@ -62,41 +64,11 @@ Politeknik Negeri Padang
 
 ---
 
-# ⚡ LIVE CODING TERMINAL
+## ⚡ Life of a Programmer
 
-```bash
-Initializing system...
-
-Loading libraries...
-[████████████████████████] 100%
-
-import web_development
-import database_architecture
-import artificial_intelligence
-import cloud_computing
-import cyber_security
-
-Compiling source code...
-
-function buildFuture(){
-
-    let knowledge = 100
-    let creativity = 100
-    let bugs = 0
-
-    if(knowledge && creativity){
-        return "Future Technology Created"
-    }
-
-}
-
-Running processes...
-
-████████████████████████████████████
-System Status : STABLE
-```
-
----
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG53b2JxbjFkejRvdGk4bWRlZjMyYjJyYmtnajhxeXEzejEyc25meSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
+</p>
 
 # 👾 CODING MODE
 
