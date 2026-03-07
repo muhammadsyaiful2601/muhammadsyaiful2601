@@ -19,6 +19,7 @@
 > Loading System Modules...
 > Connecting To GitHub Network...
 > Authentication Success
+> Rabbid System Voice : BWAAAAAH!!
 ```
 
 ```bash
@@ -34,8 +35,6 @@ root@developer:~$ university
 Politeknik Negeri Padang
 ```
 
----
-
 ```
 ██████╗ ██╗    ██╗ █████╗     ██████╗ ██╗    ██╗ █████╗
 ██╔══██╗██║    ██║██╔══██╗    ██╔══██╗██║    ██║██╔══██╗
@@ -54,32 +53,67 @@ Politeknik Negeri Padang
 
 ---
 
-# 🌧 MATRIX NETWORK
+# 🐰 BWAAAAAAAHHHHH!!!
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY201dWNndm0yYnFzcjE4eGM0N20yemZ3c3Q0bGdtbHEzMTNldXNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="750">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRjajlkcHpicnRqZGU3bHU2azhnZDg0ZHYzMDVlcXoyNWR4ZmJ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xOZmqJ3EuDf2lG/giphy.gif" width="750">
 
 </div>
 
+<div align="center">
+<div align="center">
+
+### 🔊 WARNING : DO NOT CLICK THIS
+
+🐰 Curious what the Rabbid is screaming?
+
+<a href="./raving-rabbids-bwaaah.mp3">
+
+## ▶ PLAY THE BWA SOUND
+
+</a>
+
+*(Headphone recommended)* 🎧
+
+</div>
 ---
 
 ## ⚡ Life of a Programmer
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG53b2JxbjFkejRvdGk4bWRlZjMyYjJyYmtnajhxeXEzejEyc25meSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
-</p>
+<table align="center">
+<tr>
+<td align="left">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG53b2JxbjFkejRvdGk4bWRlZjMyYjJyYmtnajhxeXEzejEyc25meSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="200">
+
+</td>
+
+<td align="right">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5ieXprdXNuZ2tvamxnbzVhbjNmcnQ1b3dmdjhrcWpiazd6amJjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif" width="200">
+
+</td>
+</tr>
+</table>
 
 # 👾 CODING MODE
 
-<div align="center">
+<table align="center">
+<tr>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNvN2VuMmIwZzVucDJveW1pdWZldXdrZjZybmtuaWg1a3Vvd3VzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<td align="left">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNvN2VuMmIwZzVucDJveW1pdWZldXdrZjZybmtuaWg1a3Vvd3VzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</td>
 
-</div>
+<td align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pveHBkeTE4djAzeXdxb2ZlN2VqN2R6amdlZXU4NzZ2NnQ5NDJ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vI946WpKjPVtSsrFba/giphy.gif" width="300">
+</td>
+
+</tr>
+</table>
 
 ---
-
 # 🧠 ABOUT ME
 
 Saya adalah mahasiswa **Sistem Informasi di Politeknik Negeri Padang** yang memiliki minat besar dalam dunia teknologi:
@@ -204,8 +238,10 @@ class Developer:
 
 <div align="center">
 
-🟢 SYSTEM STATUS : ONLINE
-⚡ CODING IN PROGRESS
-💻 BUILDING FUTURE TECHNOLOGY
+🟢 SYSTEM STATUS : ONLINE  
+⚡ CODING IN PROGRESS  
+💻 BUILDING FUTURE TECHNOLOGY  
+
+🐰 BWAAHAHAHAHAHAHA!!!  
 
 </div>
