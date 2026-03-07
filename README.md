@@ -64,20 +64,20 @@ Politeknik Negeri Padang
 <div align="center">
 <div align="center">
 
+<div align="center">
+
 ### 🔊 WARNING : DO NOT CLICK THIS
 
 🐰 Curious what the Rabbid is screaming?
 
 <a href="./raving-rabbids-bwaaah.mp3">
 
-## ▶ PLAY THE BWA SOUND
+▶ **PLAY THE BWA SOUND**
 
 </a>
 
 *(Headphone recommended)* 🎧
-
 </div>
----
 
 ## ⚡ Life of a Programmer
 
