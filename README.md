@@ -57,26 +57,8 @@ Politeknik Negeri Padang
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRjajlkcHpicnRqZGU3bHU2azhnZDg0ZHYzMDVlcXoyNWR4ZmJ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xOZmqJ3EuDf2lG/giphy.gif" width="750">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRjajlkcHpicnRqZGU3bHU2azhnZDg0ZHYzMDVlcXoyNWR4ZmJ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xOZmqJ3EuDf2lG/giphy.gif" width="550">
 
-</div>
-
-<div align="center">
-<div align="center">
-
-<div align="center">
-
-### 🔊 WARNING : DO NOT CLICK THIS
-
-🐰 Curious what the Rabbid is screaming?
-
-<a href="./raving-rabbids-bwaaah.mp3">
-
-▶ **PLAY THE BWA SOUND**
-
-</a>
-
-*(Headphone recommended)* 🎧
 </div>
 
 ## ⚡ Life of a Programmer
