@@ -161,7 +161,7 @@ Saya menggunakan **AI tools untuk meningkatkan produktivitas coding dan eksplora
 <img src="https://img.shields.io/badge/GitHub-Profile-00FF41?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/udin_gaming2601?igsh=bnhsb29raTdqeGJ2">
 <img src="https://img.shields.io/badge/Instagram-Coming%20Soon-black?style=for-the-badge&logo=instagram"/>
 </a>
 
